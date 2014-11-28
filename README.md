@@ -5,9 +5,9 @@ Open index.html in a web browser that supports HTML 5 and Javascript
 
 How to play?
 
-The Player must avoid all the bugs and the center stone block of the last stone row(just below water blocks) to win the game.
-Reaching this block resets the game and brings the player back to the starting position.
-If the player collides with a bug he is sent back to the starting position
+The Player must avoid all the bugs and the center stone block of the last stone row(just below water blocks) to win the game.  
+Reaching this block resets the game and brings the player back to the starting position.  
+If the player collides with a bug he is sent back to the starting position.
 The player cannot move on water blocks
 
 Controls
